@@ -1,0 +1,16 @@
+{
+    "songs": [
+        ["Bambis Mind Out", "bambi", [37, 191, 55]],
+        ["Cheating", "bambi", [37, 191, 55]],
+        ["Sonorous 3", "bambi", [37, 191, 55]],
+        ["Wanderer", "bambi", [37, 191, 55]],
+        ["Soundbreaker", "bambi", [37, 191, 55]],
+        ["Hellbreaker", "bambi", [37, 191, 55]],
+        ["floccinaucinihilipilificatiophobia", "bambi", [37, 191, 55]]
+    ],
+
+    "difficulties": "Normal",
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "hideFreeplay": false
+}
