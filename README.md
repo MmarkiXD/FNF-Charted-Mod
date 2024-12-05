@@ -10,4 +10,4 @@
 Here's How Much repo size
 
 <p align="center">
-so yeah i charted this mod!, this is my version. I'm working on termux on JS Mobile
+so yeah i charted this mod!, this is my version. I'm working on JS Mobile
